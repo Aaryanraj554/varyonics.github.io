@@ -1,0 +1,57 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Varyonics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: #e5e7eb;
+            text-align: center;
+        }
+        .container {
+            padding: 80px 20px;
+        }
+        h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 18px;
+            max-width: 700px;
+            margin: 0 auto 20px;
+            color: #cbd5f5;
+        }
+        .tag {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #1e293b;
+            border-radius: 20px;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        footer {
+            margin-top: 80px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Varyonics</h1>
+        <p>
+            An early-stage AI-driven platform focused on hyperlocal apparel discovery,
+            retail intelligence, and faster market alignment.
+        </p>
+        <div class="tag">Ideation & Prototype Stage</div>
+        <footer>
+            © 2026 Varyonics · Founded by Aryan Raj
+        </footer>
+    </div>
+</body>
+</html>
